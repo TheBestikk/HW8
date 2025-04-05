@@ -1,0 +1,15 @@
+p:nth-of-type(3){
+    color: green;
+}
+
+.yellow{
+    color: yellow;
+}
+
+#greycol{
+    color: grey;
+}
+
+div p:nth-child(1) {
+    color: red;
+}
